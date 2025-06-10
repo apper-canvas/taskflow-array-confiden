@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Strategy & Planning",
+    "color": "#5B4CFF",
+    "taskCount": 2
+  },
+  {
+    "id": "2",
+    "name": "Development",
+    "color": "#4CAF50",
+    "taskCount": 2
+  },
+  {
+    "id": "3",
+    "name": "Meetings & Communication",
+    "color": "#FF9800",
+    "taskCount": 1
+  },
+  {
+    "id": "4",
+    "name": "Design & UX",
+    "color": "#E91E63",
+    "taskCount": 0
+  },
+  {
+    "id": "5",
+    "name": "Marketing",
+    "color": "#9C27B0",
+    "taskCount": 0
+  }
+]

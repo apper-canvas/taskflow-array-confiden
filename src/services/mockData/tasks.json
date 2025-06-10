@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly performance metrics",
+    "description": "Analyze Q3 performance data and prepare summary for stakeholder presentation. Focus on key KPIs and identify areas for improvement.",
+    "categoryId": "1",
+    "priority": "high",
+    "dueDate": "2024-01-15T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "2",
+    "title": "Update project documentation",
+    "description": "Revise technical specifications and user guides for the new feature release. Ensure all changes are properly documented.",
+    "categoryId": "2",
+    "priority": "medium",
+    "dueDate": "2024-01-18T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-11T14:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "3",
+    "title": "Schedule team meeting for sprint planning",
+    "description": "Coordinate with all team members to find a suitable time for next sprint planning session. Send calendar invites.",
+    "categoryId": "3",
+    "priority": "medium",
+    "dueDate": "2024-01-16T00:00:00.000Z",
+    "completed": true,
+    "createdAt": "2024-01-09T11:15:00.000Z",
+    "completedAt": "2024-01-12T16:45:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "Research competitor analysis tools",
+    "description": "Evaluate different market analysis platforms to support our strategic planning initiatives. Prepare comparison report.",
+    "categoryId": "1",
+    "priority": "low",
+    "dueDate": "2024-01-22T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-08T08:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "5",
+    "title": "Optimize database queries for dashboard",
+    "description": "Identify and fix performance bottlenecks in the analytics dashboard. Target 30% improvement in load times.",
+    "categoryId": "2",
+    "priority": "high",
+    "dueDate": "2024-01-14T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-12T10:30:00.000Z",
+    "completedAt": null
+  }
+]
